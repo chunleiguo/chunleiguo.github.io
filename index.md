@@ -6,9 +6,13 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a software engineer at UNISOC, which is a leading fabless semiconductor company in China.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
+## Contact
+
+* Email: [chunlei1019@163.com](mailto:chunlei1019@163.com)
 
 ## Research Interest
 

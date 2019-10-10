@@ -1,4 +1,4 @@
-title: Researcher
+title: Chunlei Guo
 url: "https://chunleiguo.github.io"
 baseurl: ""
 
@@ -7,18 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "About"
-   link: ""
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
